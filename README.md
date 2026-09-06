@@ -4,7 +4,7 @@
 
 # Hi there, I'm A100 <img src="./assets/icons/hand.svg" alt="wave" width="28" valign="middle"/>
 
-**I love code and cats** <img src="./assets/icons/cat.svg" alt="cat" width="22" valign="middle"/>
+**I love code and cats** 🐱
 
 *Code by day, purrs by night.*
 
